@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27130.2027
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleLINQ", "SimpleLINQ\SimpleLINQ.csproj", "{7DB79733-1C97-4817-AEC8-3A264A4AE4DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7DB79733-1C97-4817-AEC8-3A264A4AE4DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7DB79733-1C97-4817-AEC8-3A264A4AE4DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7DB79733-1C97-4817-AEC8-3A264A4AE4DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7DB79733-1C97-4817-AEC8-3A264A4AE4DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EB041B6B-F7DB-45F3-9CC9-4883E53CCC16}
+	EndGlobalSection
+EndGlobal
